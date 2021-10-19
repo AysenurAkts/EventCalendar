@@ -8,7 +8,7 @@ Kullanılan Teknolojiiler: ASP.NET Core MVC, MSSQL, Entity Framework
 Postman üzerinden uygulamadaki Rest servisler test edilmiştir. Servise yapılan istekler ve dönen cevaplar incelenmiştir.  
 Yapılan Rest çağrılarının cevapları görsellerde gösterilmiştir.
 
-Kullanıcının kaydettiği işleri listeyebilmesi için yapılan get isteği:
+Kullanıcının planladığı işleri listeyebilmesi için yapılan get isteği:
 ![image](https://user-images.githubusercontent.com/81049064/137917612-4fd9eaf6-7d1e-4ab0-9d57-5a5c60a390a8.png)
 
 Kullanıcının yeni iş kaydı oluşturması için yapılan post isteği:
